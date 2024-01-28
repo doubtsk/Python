@@ -7,3 +7,4 @@ draft/*
 *.vs/slnx.sqlite
 *.vs/VSWorkspaceState.json
 *.vs/Python/v17/.wsuo
+*.vscode
